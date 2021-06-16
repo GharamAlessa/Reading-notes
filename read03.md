@@ -25,6 +25,7 @@ The closing tag|
  The element|
  
  ### Semantics
+ 
 In programming, Semantics refers to the meaning of a piece of code.
 
 #### For more visit [MDN](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
