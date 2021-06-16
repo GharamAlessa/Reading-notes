@@ -7,7 +7,9 @@ until I reach my goal in programming robots
 
 | **Content** |
 |------------ | -------------|
-|[Summry of mindset](https://gharamalessa.github.io/Reading-notes/)| [page Summry](https://gharamalessa.github.io/Reading-notes/read01)|
+|[Summry of mindset](https://gharamalessa.github.io/Reading-notes/)|
+[read01](https://gharamalessa.github.io/Reading-notes/read01)|
+|[read02](https://gharamalessa.github.io/Reading-notes/read02)|
 
 
 
